@@ -227,7 +227,7 @@ footer > div > form {
 }
 footer > div > form > input{
   padding: .3rem;
-  background-color: bisque;
+  background-color: rgb(213, 230, 245);
   box-shadow: 1px 1px 5px 1px gray;
 }
 footer > div > form > button{
